@@ -1,2 +1,2 @@
 # Black_Jack-HS-
-high school project 1
+A card game
